@@ -1,3 +1,5 @@
-This repository accompanies the paper “Empowering Building Emergency Response with Large Language Models and BIM-Based Knowledge Graphs.” 
+This repository accompanies the paper “Empowering Building Emergency Response with Large Language Models and BIM-Based Knowledge Graphs.” It provides related resources and datasets to support the reproduction of the system, facilitate understanding of the approach, and enable further research.
+
+The research proposes an intelligent emergency response framework that integrates large language models (LLMs), knowledge graphs, and Building Information Modeling (BIM) to enhance the automation and intelligence of emergency management in building environments.
 
 It stores generated knowledge-graph data and related resources. The **KG** folder contains multiple knowledge graphs, including the complete **all\_elements** case that encodes rich semantic information (entities and relationships). The **response** folder provides corresponding application cases and example files that illustrate the practical behavior of the emergency response system across different scenarios. In addition, a complete dataset for Named Entity Recognition (**entity\_recognition.csv**) is included for model training and evaluation.
